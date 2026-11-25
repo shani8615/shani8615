@@ -7,7 +7,7 @@ Go backend engineer and tech lead. I build **AI and LLM infrastructure in Go** â
 | | |
 |---|---|
 | [**go-structllm**](https://github.com/shani8615/go-structllm) | Typed, validated LLM output: JSON Schema from structs, automatic repair loop, OpenAI-compatible client |
-| [**go-sse**](https://github.com/shani8615/go-sse) | Server-Sent Events: stream LLM tokens to browsers, broker with `Last-Event-ID` replay, reconnecting client |
+| [**go-ssekit**](https://github.com/shani8615/go-ssekit) | Server-Sent Events: stream LLM tokens to browsers, broker with `Last-Event-ID` replay, reconnecting client |
 | [**go-redact**](https://github.com/shani8615/go-redact) | `log/slog` handler that keeps secrets and PII out of logs |
 | [**go-outbox**](https://github.com/shani8615/go-outbox) | Transactional outbox for Postgres â†’ NATS / Kafka / RabbitMQ |
 | [**go-resilience**](https://github.com/shani8615/go-resilience) | Retry with backoff, circuit breaker, rate limiting |
